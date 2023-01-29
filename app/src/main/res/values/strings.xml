@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">不爱写注释的Demo</string>
+    <string name="PermissionX">1、PermissionX</string>
+    <string name="back">返回</string>
+    <string name="CAMERA">基础用法 CAMERA权限</string>
+    <string name="RECORD_AUDIO">解释原因 RECORD_AUDIO权限</string>
+    <string name="READ_EXTERNAL_STORAGE">更多 READ_EXTERNAL_STORAGE权限</string>
+</resources>
